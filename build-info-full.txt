@@ -1,4 +1,4 @@
-Kernel Version: 6.16
+Kernel Version: 6.16.3
 Build Flavor: full
-Build Date: Tue Jul 29 05:42:47 UTC 2025
-Build Host: pkrvmpptgkbjq6m
+Build Date: Sun Aug 24 05:22:47 UTC 2025
+Build Host: pkrvmqc4gcfdwos
