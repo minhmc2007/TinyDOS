@@ -1,4 +1,4 @@
-Kernel Version: 6.16
+Kernel Version: 6.16.5
 Build Flavor: tiny
-Build Date: Tue Jul 29 04:11:34 UTC 2025
-Build Host: pkrvmpptgkbjq6m
+Build Date: Fri Sep  5 03:33:49 UTC 2025
+Build Host: pkrvm7jw40e0xgp
